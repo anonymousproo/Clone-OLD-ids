@@ -14,6 +14,8 @@ Clone-OLD-ids
 # cd Clone-OLD-ids
 # chmod +x **
 # python facebook.py
+# if you have any issue run this tools then try next
+# python facebook_enc.py
 # Note:- 
 # if you have any issue please DM me 
 # follow:- https://www.facebook.com/anonymousproo1
