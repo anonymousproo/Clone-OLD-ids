@@ -13,9 +13,9 @@ Clone-OLD-ids
 # git clone https://github.com/anonymousproo/Clone-OLD-ids.git
 # cd Clone-OLD-ids
 # chmod +x **
-# python facebook.py
+# python fb-clone-old-ids.py
 # if you have any issue run this tools then try next
-# python facebook_enc.py
+# python fb-clone-old-ids.py
 # Note:- 
 # if you have any issue please DM me 
 # follow:- https://www.facebook.com/anonymousproo1
