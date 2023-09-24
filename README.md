@@ -13,12 +13,13 @@ Clone-OLD-ids
  - `pip install mechanize`
  - `pip install bs4`
  - `pkg install git`
- - `rm -rf clone-OLD-ids`
  - `pip install future`
+ - `rm -rf clone-OLD-ids`
  - `git clone https://github.com/anonymousproo/Clone-OLD-ids.git`
+ - `python request.py`
+ - `ls`
  - `cd Clone-OLD-ids`
  - `chmod +x **`
- - `python request.py`
  -  `python fb-clone-old-ids.py`
 # if you have any issue run this tools then try next
 # python fb-clone-old-ids.py
