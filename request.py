@@ -34,7 +34,7 @@ def main_apv():
         key1=open('/data/data/com.termux/files/usr/bin/.akkkk-cov', 'r').read()
     except IOError:
         os.system("clear")
-        print(logo)
+        
         print ("\033[91;1m==+==+==+==+==+==+==+==+==+==+==+==+==+==+=\033[91;1m")
         print ("\033[92;1m==+==+==+==+==+==+==+==+==+==+==+==+==+==+==\033[92;1m")
         print ("\033[93;1mYOUR TOKEN IS NOT APROVAL\033[93;1m")     
